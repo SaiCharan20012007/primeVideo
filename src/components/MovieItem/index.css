@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.v-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.trigger-button {
+  background-color: transparent;
+  border-width: 0px;
+  align-self: flex-end;
+}
